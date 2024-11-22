@@ -4,9 +4,8 @@
 I'm working on UROP(~~will be Master~~) at [![Artifab Badge](http://img.shields.io/badge/-Artifab-black?style=flat-square&logo=ollama&link=https://artifab.yoonji-kim.com/)](https://artifab.yoonji-kim.com/), and my advisor is Yoonji Kim
 [![Yoonji-Kim Badge](http://img.shields.io/badge/-yoonji%20kim-black?style=flat-square&logo=googlefit&logoColor=blue&link=https://yoonji-kim.com/)](https://yoonji-kim.com/)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Donguk-Owen-Kim&card_height=100)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donguk-Owen-Kim&card_height=150)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Donguk-Owen-Kim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Donguk-Owen-Kim's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donguk-Owen-Kim&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <hr>
 <details>
@@ -53,6 +52,16 @@ I'm working on UROP(~~will be Master~~) at [![Artifab Badge](http://img.shields.
   </details>
 
 </details>
+
+#### Top Repositories
+
+
+<a href="https://github.com/Donguk-Owen-Kim/Mobile_Programming_2023_01_Match-A.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Donguk-Owen-Kim&repo=Mobile_Programming_2023_01_Match-A&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 <hr>
 
