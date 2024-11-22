@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I'm+Donguk+Kim%2C+HCI+Researcher;working+at+Chung-Ang+University)](https://git.io/typing-svg)
 
 I'm working on UROP(~~will be Master~~) at [![Artifab Badge](http://img.shields.io/badge/-Artifab-black?style=flat-square&logo=ollama&link=https://artifab.yoonji-kim.com/)](https://artifab.yoonji-kim.com/), and my advisor is Yoonji Kim
-[![Yoonji-Kim Badge](http://img.shields.io/badge/-yoonji%20kim-black?style=flat-square&logo=googlefit&logoColor=blue&link=https://yoonji-kim.com/)](https://yoonji-kim.com/)
+[![Yoonji-Kim Badge](http://img.shields.io/badge/-yoonji%20kim-black?style=flat-square&logo=googlefit&logoColor=blue&link=https://www.yoonji-kim.com/)](https://www.yoonji-kim.com/)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Donguk-Owen-Kim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Donguk-Owen-Kim's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donguk-Owen-Kim&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
